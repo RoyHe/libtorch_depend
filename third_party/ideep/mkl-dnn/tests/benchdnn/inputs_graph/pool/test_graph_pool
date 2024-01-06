@@ -1,5 +1,0 @@
---reset
---batch=test_graph_pool_ci
-
---reset
---batch=test_graph_pool_int8_ci
